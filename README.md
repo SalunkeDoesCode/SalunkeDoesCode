@@ -1,6 +1,4 @@
 
-
-
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*SazB8drLx74W-bFBqag9zA.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Prasad Salunke</h1>
@@ -8,9 +6,9 @@
 
 <img align="right" alt="Coding" width="500" src="https://jppresents.net/static/images/asm.gif">
 
-<img align="right" alt="Coding" width="500" height="300" src="https://cdn.dribbble.com/users/1366606/screenshots/8075231/media/e971c24ffcfc453ec6c21accb4acbec8.gif">
 
-- 🌱 I’m currently learning **Embeded C,ASM,C,JAVA,RTOS**
+
+- 🌱 I’m currently learning **Embeded C,ASM,C,JAVA,RTOS**<img align="right" alt="Circuit" width="500" height="300" src="https://cdn.dribbble.com/users/1366606/screenshots/8075231/media/e971c24ffcfc453ec6c21accb4acbec8.gif">
 
 -  💬 Ask me about **Computer Archtecture,Embeded systems designing,RTOS**
 
@@ -28,6 +26,4 @@
 
 
 
-<p>&nbsp;<img width="300" height="200" align="Left" src="https://github-readme-stats.vercel.app/api?username=salunkedoescode&show_icons=true&locale=en" alt="salunkedoescode" /></p>
-
-
+<p>&nbsp;<img width="400" height="200" align="Left" src="https://github-readme-stats.vercel.app/api?username=salunkedoescode&show_icons=true&locale=en" alt="salunkedoescode" /></p>
