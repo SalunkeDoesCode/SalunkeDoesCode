@@ -26,4 +26,4 @@
 
 
 
-<p>&nbsp;<img width="260" height="200" align="Left" src="https://github-readme-stats.vercel.app/api?username=salunkedoescode&show_icons=true&locale=en" alt="salunkedoescode" /></p>
+<p>&nbsp;<img width="270" height="200" align="Left" src="https://github-readme-stats.vercel.app/api?username=salunkedoescode&show_icons=true&locale=en" alt="salunkedoescode" /></p>
