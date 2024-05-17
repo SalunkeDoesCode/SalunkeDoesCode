@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **Embeded C,ASM,C,JAVA,RTOS**<img align="right" alt="Circuit" width="500" height="300" src="https://cdn.dribbble.com/users/1366606/screenshots/8075231/media/e971c24ffcfc453ec6c21accb4acbec8.gif">
+- 🌱 I’m currently learning **Embeded C,MicroPython,C,Python,Linux**<img align="right" alt="Circuit" width="500" height="300" src="https://cdn.dribbble.com/users/1366606/screenshots/8075231/media/e971c24ffcfc453ec6c21accb4acbec8.gif">
 
 -  💬 Ask me about **Computer Archtecture,Embeded systems designing,RTOS**
 
