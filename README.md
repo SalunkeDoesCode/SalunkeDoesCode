@@ -2,7 +2,7 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*SazB8drLx74W-bFBqag9zA.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Prasad Salunke</h1>
-<h3 align="center">A passionate Embeded systems and java developer from India</h3>
+<h3 align="center">A passionate IoT systems and python developer from India</h3>
 
 <img align="right" alt="Coding" width="500" src="https://jppresents.net/static/images/asm.gif">
 
